@@ -33,19 +33,19 @@ The analysis focuses on the following insights:
 ### Tableau Dashboards
 
 - **Sales Over Time**  
-  ![Sales Over Time](05_tableau/sales_over_time.png)
+  ![Sales Over Time](05_tableau/sales_over_time.jpg)
 
 - **Top 10 Customers**  
-  ![Top 10 Customers](05_tableau/top_10_customers.png)
+  ![Top 10 Customers](05_tableau/top_10_customers.jpg)
 
 - **Sales by Category**  
-  ![Sales by Category](05_tableau/sales_by_category.png)
+  ![Sales by Category](05_tableau/sales_by_category.jpg)
 
 - **Orders Over Time by Product Category**  
-  ![Orders Over Time](05_tableau/orders_over_time.png)
+  ![Orders Over Time](05_tableau/orders_over_time.jpg)
 
 - **Combined Dashboard**  
-  ![Combined Dashboard](05_tableau/dashboard_full.png)
+  ![Combined Dashboard](05_tableau/dashboard_full.jpg)
 
 ## Key Skills Demonstrated
 
