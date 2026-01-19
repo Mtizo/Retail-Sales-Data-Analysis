@@ -45,7 +45,7 @@ The analysis focuses on the following insights:
   ![Orders Over Time](05_tableau/orders_over_time.jpg)
 
 - **Combined Dashboard**  
-  ![Combined Dashboard](05_tableau/dashboard_all.jpg)
+  ![Combined Dashboard](05_tableau/dashboard_full.jpg)
 
 ## Key Skills Demonstrated
 
