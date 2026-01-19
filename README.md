@@ -42,7 +42,7 @@ The analysis focuses on the following insights:
   ![Sales by Category](05_tableau/sales_by_category_charts.jpg)
 
 - **Orders Over Time by Product Category**  
-  ![Orders Over Time](05_tableau/orders_over_time_charts.jpg)
+  ![Orders Over Time](05_tableau/orders_over_time_by_category_charts.jpg)
 
 - **Combined Dashboard**  
   ![Combined Dashboard](05_tableau/dashboard_all_charts.jpg)
