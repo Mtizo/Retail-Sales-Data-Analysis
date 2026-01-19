@@ -33,7 +33,7 @@ The analysis focuses on the following insights:
 ### Tableau Dashboards
 
 - **Sales Over Time**  
-  ![Sales Over Time](05_tableau/sales_over_time.jpg)
+  ![Sales Over Time](05_tableau/dashboard_all_charts.jpg)
 
 - **Top 10 Customers**  
   ![Top 10 Customers](05_tableau/top_10_customers.jpg)
