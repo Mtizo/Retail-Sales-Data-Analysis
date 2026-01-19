@@ -1,13 +1,9 @@
 # Retail Sales Data Analysis (SQL, Excel, Tableau)
 
 ## Project Overview
-This project is an end-to-end retail sales data analysis designed to demonstrate
-job-ready data analytics skills using SQL, Excel and Tableau.
-
-The objective of the project is to analyze customer purchasing behavior, product
-performance and sales trends and present insights using clear visual dashboards.
-
----
+This is an end-to-end retail sales data analysis project that demonstrates job-ready data analytics skills. 
+The objective is to analyze customer purchasing behavior, product performance, and sales trends, 
+and present insights using clear dashboards.
 
 ## Tools and Technologies
 - SQL Server (SSMS)
@@ -15,55 +11,53 @@ performance and sales trends and present insights using clear visual dashboards.
 - Tableau Public
 - GitHub
 
----
-
 ## Project Structure
 
----
+- `01_project_overview.md` – Project goals and business questions
+- `02_sql/` – SQL scripts for creating, cleaning, and analyzing data
+- `03_cleaned_data/` – Cleaned datasets used for analysis
+- `05_tableau/` – Tableau dashboard screenshots
 
 ## Data Cleaning (SQL)
-Data cleaning was performed using SQL to prepare the dataset for analysis:
+
+- Raw tables were cleaned using SQL queries
 - Duplicate records were removed
-- Cleaned tables were created separately from raw tables
-- Missing values were handled
-- Text fields were standardized
-- Numeric fields were validated for consistency
-
-Cleaned tables were exported to Excel for validation before visualization.
-
----
+- Missing values handled
+- Text fields standardized
+- Cleaned tables exported to Excel for validation
 
 ## Data Analysis and Visualizations
+
 The analysis focuses on the following insights:
-- Sales trends over time
-- Top 10 customers by total sales
-- Sales performance by product category
-- Order trends by product category
-- A combined dashboard summarizing all insights
 
-Screenshots of the Tableau visualizations are included in the repository.
+### Tableau Dashboards
 
----
+- **Sales Over Time**  
+  ![Sales Over Time](05_tableau/sales_over_time.png)
+
+- **Top 10 Customers**  
+  ![Top 10 Customers](05_tableau/top_10_customers.png)
+
+- **Sales by Category**  
+  ![Sales by Category](05_tableau/sales_by_category.png)
+
+- **Orders Over Time by Product Category**  
+  ![Orders Over Time](05_tableau/orders_over_time.png)
+
+- **Combined Dashboard**  
+  ![Combined Dashboard](05_tableau/dashboard_full.png)
 
 ## Key Skills Demonstrated
+
 - Relational database design
 - SQL data cleaning and transformation
-- Joins, aggregations and analytical queries
+- Joins, aggregations, and analytical queries
 - Excel data handling
 - Tableau dashboard development
 - End-to-end analytics workflow
 - Professional documentation
 
----
-
-## Outcome
-This project demonstrates the ability to take raw data, clean and analyze it
-and present business-ready insights through data visualization.
-
-It was created as a job-ready portfolio project for entry-level Data Analyst roles.
-
----
-
 ## Author
+
 Ntsieni Ndou  
 Aspiring Data Analyst
